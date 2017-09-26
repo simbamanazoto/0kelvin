@@ -2,10 +2,12 @@
 Machine Framework for 0kelvin - the coldest private key storage
 
 Open Framework ToDo Overview
+
 CAD files
 - 0kelvin brick design
 - Manufacturing instructions
 - Materials list
+
 Web-App
 - Split key generation
 - Vanity address generation
