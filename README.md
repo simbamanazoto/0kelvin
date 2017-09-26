@@ -1,7 +1,7 @@
 # 0kelvin
 Machine Framework for 0kelvin - the coldest private key storage
 
-Open Framework ToDo Overview
+Open Framework ToDo Overview (All of these modules will be added to this repository as they are developed)
 
 CAD files
 - 0kelvin brick design
